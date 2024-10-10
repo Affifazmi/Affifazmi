@@ -114,6 +114,20 @@ I utilize a range of tools to streamline the development process, ensuring effic
 
 ---
 
+### 🌐 Content Management Systems (CMS):
+I have experience working with a variety of Content Management Systems:
+
+<p align="center">
+    <a href="https://umbraco.com/" target="_blank" rel="noreferrer">
+        <img src="https://user-images.githubusercontent.com/6791648/60256231-6e710c00-98d1-11e9-8120-06eecbdb858e.png" alt="Umbraco" width="50" height="50" style="border-radius: 10px;" />
+    </a>
+    <a href="https://www.sitecore.com/" target="_blank" rel="noreferrer">
+        <img src="https://logowik.com/content/uploads/images/sitecore-customer-data-platform8968.logowik.com.webp" alt="Sitecore" width="70" height="50" style="border-radius: 10px;" />
+    </a>
+</p>
+
+---
+
 ### 🛠️ Tools and Platforms:
 I utilize a range of tools to streamline the development process, ensuring efficiency and collaboration.
 
@@ -161,15 +175,16 @@ Feel free to reach out to me on these platforms!
 
 ### 🌱 I’m currently learning:
 I am continually seeking to expand my skill set. Currently, I am learning about:
-- Cloud Computing
-- DevOps Practices
+- REAL TIME SYSTEMS
+- COMPONENT-BASED SOFTWARE ENGINEERING
+- SOFTWARE MAINTENANCE AND EVOLUTION
 
 ---
 
 ### 🎯 Goals:
 - Contribute to open-source projects
 - Build a portfolio of personal projects
-- Gain industry experience
+- Gain more industry experience
 
 ---
 
