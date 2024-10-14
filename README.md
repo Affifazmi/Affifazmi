@@ -160,7 +160,7 @@ I utilize a range of tools to streamline the development process, ensuring effic
 Feel free to reach out to me on these platforms!
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/affifazmi/" target="_blank" rel="noreferrer">
+    <a href="https://www.linkedin.com/in/muhammad-affif-bin-azmi-979224245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="50" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 0 10px;"/>
     </a>
     <a href="mailto:affifazmi720@gmail.com" target="_blank">
